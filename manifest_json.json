@@ -1,0 +1,24 @@
+{
+  "name": "EVO SPACE",
+  "short_name": "EVO SPACE",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Productivity Hub — Tasks, Habits & Money",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/000000/ffffff?text=EVO",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/000000/ffffff?text=EVO",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
