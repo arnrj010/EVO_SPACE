@@ -1,12 +1,15 @@
 {
-  "name": "EVO SPACE",
+  "name": "EVO SPACE - Productivity Hub",
   "short_name": "EVO SPACE",
-  "start_url": ".",
+  "start_url": "/evo-space/",
+  "scope": "/evo-space/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "description": "Productivity Hub — Tasks, Habits & Money",
+  "description": "EVO SPACE is a minimal productivity app for managing work tasks, personal tasks, and money tracking with streak rewards.",
+  "lang": "en",
+  "categories": ["productivity", "finance", "utilities"],
   "icons": [
     {
       "src": "https://via.placeholder.com/192x192/000000/ffffff?text=EVO",
